@@ -1,4 +1,5 @@
 data/
 uploads/
 install/
-
+.idea/
+.DS_Store
